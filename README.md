@@ -1,0 +1,4 @@
+- It contains HTML, CSS and JavaScript
+- index.html file contains code to structure web page
+- style.css file contains styling of web page
+- script.js file contains program that works behind the scene.
